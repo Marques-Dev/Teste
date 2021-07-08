@@ -1,3 +1,3 @@
 # Chat-RN
 
-Teste nao esta pronto
+Teste ainda esta em construção, nao esta pronto!
